@@ -1,0 +1,22 @@
+{
+  "name": "blocks-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksrutins/blocks-web.git"
+  },
+  "author": "Aleks Rutins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleksrutins/blocks-web/issues"
+  },
+  "homepage": "https://github.com/aleksrutins/blocks-web#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
